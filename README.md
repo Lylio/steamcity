@@ -1,7 +1,7 @@
-![](https://github.com/Lylio/image-repo/blob/master/logos/java.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/spring-boot.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/angular.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/mysql.png?raw=true)
+
 # SteamCity
 ## Built with Spring Boot, Angular and MySQL
 
